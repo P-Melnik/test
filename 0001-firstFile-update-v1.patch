@@ -1,0 +1,24 @@
+From 8599c3cbc874aaa36062f50e0fb8b27c44ce7dc6 Mon Sep 17 00:00:00 2001
+From: Pavel Melnik <melnikpa91@gmail.com>
+Date: Mon, 18 Dec 2023 22:36:24 +0400
+Subject: [PATCH] firstFile update v1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index f00c965..ed5f5fa 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-1
+-2
++update from git_1 v1
++update from git_1 v1
+ 3
+ 4
+ 5
+-- 
+2.23.0
+
